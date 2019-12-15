@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fde6fd31-8a56-4d6e-b92c-033fd637ca8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/answers/exercise5.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise5.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/answers/exercise6.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise6.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise7.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise7.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise8.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise8.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answers/exercise9.sql" beforeDir="false" afterPath="$PROJECT_DIR$/answers/exercise9.sql" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +59,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/answers/exercise7.sql">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/answers/exercise8.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/answers/exercise9.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -96,6 +119,9 @@
         <option value="$PROJECT_DIR$/answers/exercise3.sql" />
         <option value="$PROJECT_DIR$/answers/exercise5.sql" />
         <option value="$PROJECT_DIR$/answers/exercise6.sql" />
+        <option value="$PROJECT_DIR$/answers/exercise7.sql" />
+        <option value="$PROJECT_DIR$/answers/exercise8.sql" />
+        <option value="$PROJECT_DIR$/answers/exercise9.sql" />
       </list>
     </option>
   </component>
@@ -160,23 +186,23 @@
       <option name="presentableId" value="Default" />
       <updated>1575757165960</updated>
       <workItem from="1575757168471" duration="106000" />
-      <workItem from="1576445166851" duration="1681000" />
+      <workItem from="1576445166851" duration="1957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1787000" />
+    <option name="totallyTimeSpent" value="2063000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="718" height="900" extended-state="0" />
+    <frame x="0" y="0" width="687" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.23816568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.2496124" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.50120485" side_tool="true" visible="true" weight="0.23816568" />
+      <window_info id="Structure" order="5" sideWeight="0.50089765" side_tool="true" visible="true" weight="0.2496124" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -188,7 +214,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -256,7 +282,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/answers/exercise7.sql">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answers/exercise8.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/answers/exercise9.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
